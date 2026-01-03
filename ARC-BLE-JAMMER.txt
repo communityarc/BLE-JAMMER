@@ -1,0 +1,12 @@
+///////ARC-BLE-JAMMER///////
+
+!!Requirements//
+#Esp32
+#NRF24L01 x2
+#push button
+
+!!BLE-ARC-JAMMER CONNECTIONS
+HSPI=SCK = 14, MISO = 12, MOSI = 13, CS = 15 , CE = 16
+VSPI=SCK = 18, MISO =19, MOSI = 23 ,CS =21 ,CE = 22
+Push button = 33
+
