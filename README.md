@@ -118,5 +118,5 @@ Use, modify, and distribute with attribution.
 
 ## 👤 Author
 
-**ARC – BLE Jammer Project**  
-Focused on low‑level RF research and embedded system design.
+**COMMUNITY ARC**  
+
